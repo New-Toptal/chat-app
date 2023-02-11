@@ -34,7 +34,7 @@ Main page will looks like this.I will add the functionality.
 React &amp; Spring Boot
 
 ### Front End 
-* React
+* React TypeScript
 * React Hooks
 * Redux
 * Tailwind CSS
